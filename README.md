@@ -1,5 +1,5 @@
 # asterix_triangle
-# This code is to produce a list of * string that display a triangle up bottom and buttom up.
+# This code is to produce a list of * string that display a triangle up bottom and buttom up. Like a sand watch.
 # I write this because i am wonder about skill test from Kompas
 
 # When i google for this, i found many ways to solve this task
