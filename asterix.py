@@ -76,9 +76,4 @@ segitiga(p)
 
 
 
-# Keep in touch with me :)
-# Sulistiyo
 # http://skaeys.net/
-# tiyo.skaeys@gmail.com
-# Call  +628112637367
-# Wa/Ta +628562584391
